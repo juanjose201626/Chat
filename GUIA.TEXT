@@ -1,0 +1,10 @@
+npm init --yess
+
+npm i express socket.io
+
+npm i nodemon -D
+
+
+nodemon nos da mas comandos,
+npmt star para iniciiar el servidor
+npm run dev
